@@ -1,0 +1,30 @@
+_repo: History-of-the-French-Revolution-from-1789-to-1814_9602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mignet, M. (François-Auguste-Marie-Alexis)
+    aliases:
+    - Mignet, F. A. (François-Auguste)
+    - Mignet, François-Auguste
+    - Mignet, M. (Francois-Auguste-Marie-Alexis)
+    birthdate: 1796
+    deathdate: 1884
+    gutenberg_agent_id: '3091'
+    url: http://www.gutenberg.org/2009/agents/3091
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mignet
+description: Cover -- INTRODUCTION -- BIBLIOGRAPHY -- CONTENTS.
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 1789-1815'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- GITenberg
+title: History of the French Revolution from 1789 to 1814
+url: http://www.gutenberg.org/ebooks/9602
