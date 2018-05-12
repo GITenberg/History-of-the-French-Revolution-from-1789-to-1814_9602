@@ -1,5 +1,8 @@
 _repo: History-of-the-French-Revolution-from-1789-to-1814_9602
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mignet, M. (François-Auguste-Marie-Alexis)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3091
     wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mignet
 description: Cover -- INTRODUCTION -- BIBLIOGRAPHY -- CONTENTS.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9602#History-of-the-French-Revolution-from-1789-to-1814
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
